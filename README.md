@@ -1,9 +1,9 @@
 <h1 align= "center">Sorteador de Número</h1>
-<p align= "center">Site criado para praticar HTML. CSS e JavaScript, com o intuito de sortear números</p>
+<p align= "center">Site criado para praticar HTML. CSS e JavaScript, com o intuito de sortear números.</p>
 <br/> 
 
 <h2>Funcionalidade:</h2>
-<p>Usuario escolhe o número mínimo e máximo. Ótimo para fazer sorteios de rifas para sortear o número do ganhador do prêmio</p>
+<p>Usuário escolhe o número mínimo e máximo clica no botão e gera números aleatórios. Ótimo para fazer sorteios de rifas para sortear o número do ganhador do prêmio.</p>
 <br/> 
 
 <h2>Tecnologias:</h2>
@@ -12,5 +12,6 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <br/> 
 
-<h2>Resultados:</h2>
+<h2>Resultado:</h2>
 
+<img src="https://github.com/Beatrizsantos1/Sorteio_De_Numeros/blob/master/ass/DevSorteio.png?raw=true"/>
